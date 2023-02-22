@@ -1,4 +1,4 @@
-# Firebase App
+# Share Data App
 This app can be used for keeping record of person with their basic details. This app uses Firebase realtime database for CRUD operation and it also has Firebase Authentication feature. It also uses firebase cloud storage to store file such as profile image.
 It can be used to add, delete, update and show list of employees, students etc in academic instituion or in any organisation.
 
